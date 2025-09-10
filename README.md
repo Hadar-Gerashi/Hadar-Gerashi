@@ -1,8 +1,8 @@
-# I'm Hadar Gerashi
+# Hi, I'm Hadar Gerashi 👋
 
-👩‍💻 **Full-Stack Software Developer** passionate about creativity, design, and technology  
-🎓 Final-year **Software Engineering Student** at Kishurim Institute  
-🎯 Always eager to learn, grow, and make an impact in software systems  
+👩‍💻 Full-Stack Software Developer combining creativity, design, and strong technical skills
+🚀 Skilled in turning ideas into real-world applications using modern technologies
+🌟 Always eager to learn, grow, collaborate, and deliver impactful solutions
 
 ---
 
@@ -32,9 +32,10 @@
 
 ---
 
-## 🎓 Education & Certifications
+## 🎓 Education
 
-- **Kishurim Institute (2023-2025)** – Software Engineering Diploma, Full-Stack specialization, Embedded Systems knowledge, Avg. 99  
+- **Machon Kishurim (2023–2025)** – *Software Engineering Diploma*  
+  Full-Stack specialization | GPA: **98** | Official MAHAT Score: **99**
 - **AWS Cloud Fundamentals** – Practical experience with AWS services  
 - **Introduction to AI** – Theory & practical AI applications  
 - **UltraCode - KamaTech** – Algorithms, Digital Systems, Data Structures, Graphs  
