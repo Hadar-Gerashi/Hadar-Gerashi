@@ -1,7 +1,7 @@
 # Hi, I'm Hadar Gerashi 👋
 
-👩‍💻 Full-Stack Software Developer combining creativity, design, and strong technical skills
-🚀 Skilled in turning ideas into real-world applications using modern technologies
+👩‍💻 Full-Stack Software Developer combining creativity, design, and strong technical skills  
+🚀 Skilled in turning ideas into real-world applications using modern technologies  
 🌟 Always eager to learn, grow, collaborate, and deliver impactful solutions
 
 ---
