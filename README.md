@@ -36,9 +36,12 @@ Always eager to learn, grow, collaborate, and deliver impactful solutions
 
 - **Machon Kishurim (2023–2025)** - *Software Engineering Diploma*  
   Full-Stack specialization | GPA: **98** | Official MAHAT Score: **99**
-- **AWS Cloud Fundamentals** - Practical experience with AWS services  
-- **Introduction to AI** - Theory & practical AI applications  
-- **UltraCode - KamaTech** - Algorithms, Digital Systems, Data Structures, Graphs  
+- **Experis Academy | Select Top Bootcamp** - Intensive Full-Stack training  
+  with hands-on project and Git-based team collaboration,  
+  focus on architecture, modular code, and design principles.  
+- **AWS Cloud Fundamentals** - Practical experience with AWS services.  
+- **Introduction to AI** - Theory & practical AI applications.  
+- **UltraCode - KamaTech** - Algorithms, Digital Systems, Data Structures, Graphs.  
 
 ---
 
